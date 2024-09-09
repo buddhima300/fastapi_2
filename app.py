@@ -8,7 +8,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
 
-df = pd.read_csv('coursera.csv')
+# df = pd.read_csv('coursera.csv')
 
 app = FastAPI()
 
